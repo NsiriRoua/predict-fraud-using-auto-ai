@@ -1,1 +1,20 @@
 {"input_data": [{"fields": ["Gender", "Married", "Dependents", "Education", "Self_Employed", "ApplicantIncome", "CoapplicantIncome", "LoanAmount", "Loan_Term", "Credit_History_Available", "Housing", "Locality"], "values": [[1,0,0,0,0,3748,1668,110,360,1,0,2]]}]}
+{
+    "predictions": [
+        {
+            "fields": [
+                "prediction",
+                "probability"
+            ],
+            "values": [
+                [
+                    0,
+                    [
+                        0.9281052319347706,
+                        0.07189476806522933
+                    ]
+                ]
+            ]
+        }
+    ]
+}
